@@ -72,3 +72,4 @@ C:\Users\ellipsis\source\repos\TestWebApp\bin\Microsoft.CodeDom.Providers.DotNet
 C:\Users\ellipsis\source\repos\TestWebApp\obj\Release\TestWebApp.csproj.CopyComplete
 C:\Users\ellipsis\source\repos\TestWebApp\obj\Release\TestWebApp.dll
 C:\Users\ellipsis\source\repos\TestWebApp\obj\Release\TestWebApp.pdb
+C:\Users\ellipsis\source\repos\TestWebApp\obj\Release\TestWebApp.csprojAssemblyReference.cache

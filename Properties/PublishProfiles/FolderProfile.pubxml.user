@@ -184,10 +184,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/28/2018 13:04:24</publishTime>
     </File>
     <File Include="bin/TestWebApp.dll">
-      <publishTime>12/03/2019 11:42:27</publishTime>
+      <publishTime>12/03/2019 23:50:19</publishTime>
     </File>
     <File Include="bin/TestWebApp.pdb">
-      <publishTime>12/03/2019 11:42:27</publishTime>
+      <publishTime>12/03/2019 23:50:19</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
       <publishTime>01/23/2014 15:57:34</publishTime>
@@ -286,7 +286,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>12/03/2019 11:39:13</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>12/03/2019 11:39:13</publishTime>
+      <publishTime>12/03/2019 23:08:26</publishTime>
     </File>
     <File Include="Views/Shared/Error.cshtml">
       <publishTime>12/03/2019 11:39:13</publishTime>
